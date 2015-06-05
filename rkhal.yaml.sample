@@ -1,0 +1,3 @@
+endpoint: 'https://mail.sample.com/ews/Exchange.asmx'
+username: 'DOMAIN\user'
+password: 'password!'
