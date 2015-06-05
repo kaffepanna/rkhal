@@ -7,7 +7,7 @@ Simple console application to show the exchange calendar events of the week.
 
    $ bundle install
 
-copy `khal.yaml.sample` to `khal.yaml` and edit
+copy `rkhal.yaml.sample` to `rkhal.yaml` and edit
 
 ## Running
 

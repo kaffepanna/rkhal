@@ -60,7 +60,6 @@ today.sort { |a,b| a.start <=> b.start }.each do |i|
     day = curr_day
   end
   
-  subject_len = i.subject.size if subject_len < i.subject.size
   str += "%s-%s %s %s\n" % [i.start.to_time.to_formatted_s(:time).green,
                             i.end.to_time.to_formatted_s(:time).green,
                             i.subject.gray,
