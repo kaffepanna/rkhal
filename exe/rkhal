@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require "rkhal"
+
+
+include Rkhal
+
+puts get_week_str
+
+
+
+
