@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require "rkhal"
+
+
+include Rkhal
+init
+puts this_week
+
+
+
+
